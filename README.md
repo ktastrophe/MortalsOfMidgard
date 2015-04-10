@@ -5,6 +5,6 @@ Mortals of Midgard is a roguelike RPG project that I was working on from 2012 to
 
 It was coded in Visual Studio 2008, in XNA 3.0. Please open the solution file, MortalsOfMidgard.sln, in Visual Studio, to load the proper files and assets.
 
-I'll add a more permissive license, if / when someone has expressed interest in working on this project with me. Thanks for looking!
+This software is now licensed under the GNU GPL.
 
 Katie

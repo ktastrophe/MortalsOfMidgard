@@ -1,0 +1,491 @@
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\grass w rocks.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Gabriola.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\worn grass.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\messageBG.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\alchemist.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\sidebar bg.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\grass.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Trap_water.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Ragicn_alchemist.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Monsters_trap.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\lozla_owl.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\skeleton.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Kootenay.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\new alchemist.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\HeaderFont.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\potion.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\potion v2.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\village walls.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\village floor.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\scroll.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\arrow tile.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\gold small.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\ring.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\pack.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\femalchemist.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\trader.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\viking.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Class Select Screen.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\pickaxe.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\rock.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\light radius.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\stalagmite.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\puddle tile.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\dungeon arrow.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\stair down.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\alchemist frames.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\femalchemist frames.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\trader frames.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\map button.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\viking ani.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\title screen.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\barsBG.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\slash attack ani.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\raven in the trap.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\MoM Title.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\wolverine.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\look icon.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\slash.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\bonebreak.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\new tree tall.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\cursor.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\gold med.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\long bow.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\survivalist.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\survivalist ani.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\arrow.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\arrows small pile.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\RedHind.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\FeralHound.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\GrassSnake.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Food.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\TileTexNames.dat
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\EqpTxNames.dat
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\pine tree.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\mountain.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\throw.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\hide cuirass.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\inventory_BG.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\inventory bg alt.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\undiscovered tile overlay.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\right edge overlay.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\right low corner overlay.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\bottom edge overlay.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\left low corner overlay.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\ForestMnstrNames.dat
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Veinheri.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Mortals of Midgard.exe.config
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Mortals of Midgard.exe
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Mortals of Midgard.pdb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\obj\x86\Debug\Mortals of Midgard.exe
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\obj\x86\Debug\Mortals of Midgard.pdb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\battle-axe.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\TurkeyRat.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\villiform.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\DngnMnstrNames.dat
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\tombstone.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\forest overlay.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\log_btn.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\footstep_grass.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\footstep_grass2.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\footstep_grass3.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\stoneStep2.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\stoneStep1.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\forest mists.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\dungeon overlay.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\survivalist f.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\eat icon.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\leister.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Gourd.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\63532__florian-reinke__click2.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\141980_m2mobi_click_converted.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\cursor click.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\snowscape3.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\snowscape.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\snowscape2.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\jotunheim overlay.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\fs_border.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\yggdrassil highlight.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\TileTexNames.dat
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\ForestMnstrNames.dat
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\DngnMnstrNames.dat
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\EqpTxNames.dat
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\stoneStep2.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\lozla_owl.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\snowscape3.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\63532__florian-reinke__click2.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\stalagmite.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\stair down.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\GrassSnake.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\ring.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\right edge overlay.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\skeleton.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\scroll.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\jotunheim overlay.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\footstep_grass2.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\survivalist ani.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\femalchemist frames.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\potion v2.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\grass w rocks.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\dungeon overlay.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\map button.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\village walls.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\pine tree.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\inventory bg alt.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\bottom edge overlay.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\new alchemist.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\footstep_grass.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\cursor click.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\log_btn.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\pack.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\look icon.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\title screen.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\left low corner overlay.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\undiscovered tile overlay.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\trader frames.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\Trader.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\Kootenay.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\viking.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\throw.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\slash attack ani.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\raven in the trap.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\dungeon arrow.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\Ragicn_alchemist.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\worn grass.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\Gourd.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\141980_m2mobi_click_converted.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\Wolverine.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\snowscape.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\rock.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\survivalist f.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\battle-axe.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\puddle tile.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\yggdrassil highlight.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\arrow.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\gold med.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\inventory_BG.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\tombstone.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\forest mists.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\forest bgm.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\light radius.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\FeralHound.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\cursor.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\alchemist.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\eat icon.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\mountain.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\snowscape2.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\TurkeyRat.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\Trap_water.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\Villiform.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\Food.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\Veinheri.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\stoneStep1.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\gold small.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\survivalist.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\bonebreak.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\grass.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\slash.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\MoM Title.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\potion.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\messageBG.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\right low corner overlay.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\arrows small pile.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\leister.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\viking ani.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\femalchemist.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\hide cuirass.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\forest overlay.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\village floor.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\alchemist frames.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\pickaxe.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\footstep_grass3.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\Class Select Screen.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\fs_border.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\barsBG.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\new tree tall.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\arrow tile.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\Monsters_trap.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\Gabriola.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\long bow.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\sidebar bg.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\HeaderFont.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\RedHind.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Mortals of Midgard.exe.config
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Mortals of Midgard.exe
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Mortals of Midgard.pdb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\LinqBridge.dll
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\obj\x86\Debug\Mortals of Midgard.exe
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\obj\x86\Debug\Mortals of Midgard.pdb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\bin\x86\Debug\Content\yggdrassil v3.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\yggdrassil v3.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\forest bgm.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\LinqBridge.dll
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\SoundFXList.dat
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\MoM Dungeon.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Mortals of Midgard.exe.manifest
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Mortals of Midgard.application
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\obj\x86\Debug\Mortals of Midgard.exe.manifest
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\obj\x86\Debug\Mortals of Midgard.application
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\obj\x86\Debug\MortalsOfMidgard.Properties.Resources.resources
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\obj\x86\Debug\Mortals of Midgard.csproj.GenerateResource.Cache
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Intro.dat
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\tools icon.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\attack icon.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\save button.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\gem of soul trapping.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Intro.dat
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\TileTexNames.dat
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\EqpTxNames.dat
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\ForestMnstrNames.dat
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\DngnMnstrNames.dat
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\SoundFXList.dat
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Mortals of Midgard.exe.config
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Mortals of Midgard.exe.manifest
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Mortals of Midgard.application
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Mortals of Midgard.exe
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Mortals of Midgard.pdb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\LinqBridge.dll
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\obj\x86\Debug\MortalsOfMidgard.Properties.Resources.resources
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\obj\x86\Debug\Mortals of Midgard.csproj.GenerateResource.Cache
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\obj\x86\Debug\Mortals of Midgard.exe.manifest
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\obj\x86\Debug\Mortals of Midgard.application
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\obj\x86\Debug\Mortals of Midgard.exe
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\obj\x86\Debug\Mortals of Midgard.pdb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\arrows small pile.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\yggdrassil v3.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\left low corner overlay.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\survivalist f.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\slash.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\messageBG.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\stalagmite.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\stoneStep2.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\lozla_owl.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\battle-axe.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\new alchemist.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\pack.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\map button.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\HeaderFont.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\sidebar bg.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\worn grass.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\snowscape.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\leister.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\survivalist.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\MoM Dungeon.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\alchemist frames.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\yggdrassil highlight.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\pine tree.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\gold small.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\viking.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\throw.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Trader.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\grass w rocks.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\forest overlay.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\dungeon arrow.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\gem of soul trapping.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Class Select Screen.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\141980_m2mobi_click_converted.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Gourd.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\forest mists.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Veinheri.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\snowscape2.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\cursor click.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Wolverine.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\cursor.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Trap_water.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Villiform.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\footstep_grass2.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\village floor.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\alchemist.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\jotunheim overlay.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\footstep_grass3.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\femalchemist.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\pickaxe.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\skeleton.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\raven in the trap.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\right low corner overlay.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\RedHind.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\snowscape3.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\forest bgm.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\dungeon overlay.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\puddle tile.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\MoM Title.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\hide cuirass.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\slash attack ani.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\bottom edge overlay.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Ragicn_alchemist.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\viking ani.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\63532__florian-reinke__click2.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Monsters_trap.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Food.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\stoneStep1.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\survivalist ani.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\bonebreak.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\eat icon.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\mountain.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\look icon.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\potion v2.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\attack icon.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\title screen.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\ring.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\grass.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\barsBG.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\light radius.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\femalchemist frames.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\long bow.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\inventory_BG.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\fs_border.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\FeralHound.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\arrow.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\inventory bg alt.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\village walls.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\arrow tile.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\undiscovered tile overlay.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Kootenay.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\trader frames.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\potion.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\right edge overlay.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\TurkeyRat.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\save button.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\gold med.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Gabriola.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\tools icon.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\stair down.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\log_btn.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\rock.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\tombstone.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\footstep_grass.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\scroll.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\new tree tall.xnb
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\GrassSnake.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Intro.dat
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\TileTexNames.dat
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\EqpTxNames.dat
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\ForestMnstrNames.dat
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\DngnMnstrNames.dat
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\SoundFXList.dat
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\alchemist.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\gold small.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\dungeon overlay.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\mountain.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\tools icon.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\snowscape.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Food.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\lozla_owl.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\survivalist f.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\63532__florian-reinke__click2.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\FeralHound.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\viking ani.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\worn grass.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\look icon.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\slash.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\messageBG.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\gold med.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Monsters_trap.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\femalchemist.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\leister.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\eat icon.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Gourd.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\stair down.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\ring.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\RedHind.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Trap_water.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\alchemist frames.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\pickaxe.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\puddle tile.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\survivalist.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\arrow tile.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\map button.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\dungeon arrow.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\inventory bg alt.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\yggdrassil v3.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\raven in the trap.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\footstep_grass.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\femalchemist frames.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\survivalist ani.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Gabriola.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\attack icon.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\pine tree.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\right edge overlay.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\village walls.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\new tree tall.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\HeaderFont.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\right low corner overlay.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\title screen.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Veinheri.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\stalagmite.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\MoM Dungeon.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\rock.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Kootenay.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\long bow.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Trader.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Ragicn_alchemist.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\village floor.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\skeleton.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\scroll.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\grass.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\new alchemist.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\slash attack ani.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\potion.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Villiform.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\inventory_BG.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\jotunheim overlay.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\throw.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\arrows small pile.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\undiscovered tile overlay.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\forest overlay.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\forest mists.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\cursor.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\141980_m2mobi_click_converted.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\MoM Title.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\GrassSnake.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\bonebreak.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\bottom edge overlay.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\barsBG.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\stoneStep2.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\light radius.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\viking.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\potion v2.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Wolverine.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\TurkeyRat.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\save button.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\tombstone.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\log_btn.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\yggdrassil highlight.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\pack.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\sidebar bg.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\trader frames.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\footstep_grass3.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\gem of soul trapping.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\stoneStep1.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\forest bgm.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\snowscape2.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\battle-axe.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\hide cuirass.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\arrow.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\footstep_grass2.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\grass w rocks.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\snowscape3.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\fs_border.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Class Select Screen.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\cursor click.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\left low corner overlay.xnb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Mortals of Midgard.exe.config
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Mortals of Midgard.exe.manifest
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Mortals of Midgard.application
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Mortals of Midgard.exe
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Mortals of Midgard.pdb
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\LinqBridge.dll
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\obj\x86\Debug\MortalsOfMidgard.Properties.Resources.resources
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\obj\x86\Debug\Mortals of Midgard.csproj.GenerateResource.Cache
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\obj\x86\Debug\Mortals of Midgard.exe.manifest
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\obj\x86\Debug\Mortals of Midgard.application
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\obj\x86\Debug\Mortals of Midgard.exe
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\obj\x86\Debug\Mortals of Midgard.pdb

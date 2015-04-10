@@ -1,0 +1,999 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>lozla_owl.png</Source>
+      <Name>lozla_owl</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\lozla_owl.xnb</Output>
+      <Time>2012-03-15T21:03:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Ragicn_alchemist.png</Source>
+      <Name>Ragicn_alchemist</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Ragicn_alchemist.xnb</Output>
+      <Time>2012-03-16T11:02:38-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Trap_water.png</Source>
+      <Name>Trap_water</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Trap_water.xnb</Output>
+      <Time>2012-03-16T17:28:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Monsters_trap.png</Source>
+      <Name>Monsters_trap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Monsters_trap.xnb</Output>
+      <Time>2012-03-17T22:24:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>alchemist.png</Source>
+      <Name>alchemist</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\alchemist.xnb</Output>
+      <Time>2012-05-18T17:44:38-04:00</Time>
+    </Item>
+    <Item>
+      <Source>grass.png</Source>
+      <Name>grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\grass.xnb</Output>
+      <Time>2012-09-10T23:21:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>honey badger.png</Source>
+      <Name>Wolverine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Wolverine.xnb</Output>
+      <Time>2012-09-13T13:42:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>messageBG.png</Source>
+      <Name>messageBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\messageBG.xnb</Output>
+      <Time>2012-08-14T15:54:46-04:00</Time>
+    </Item>
+    <Item>
+      <Source>grass w rocks.png</Source>
+      <Name>grass w rocks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\grass w rocks.xnb</Output>
+      <Time>2012-04-02T13:11:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>worn grass.png</Source>
+      <Name>worn grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\worn grass.xnb</Output>
+      <Time>2012-04-02T13:11:38-04:00</Time>
+    </Item>
+    <Item>
+      <Source>new mountain.png</Source>
+      <Name>mountain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\mountain.xnb</Output>
+      <Time>2012-04-02T16:09:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>new tree.png</Source>
+      <Name>pine tree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\pine tree.xnb</Output>
+      <Time>2012-04-02T16:10:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>skeleton.png</Source>
+      <Name>skeleton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\skeleton.xnb</Output>
+      <Time>2012-04-03T16:45:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>rationbag.png</Source>
+      <Name>Food</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Food.xnb</Output>
+      <Time>2012-04-06T19:55:40-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sidebar bg.png</Source>
+      <Name>sidebar bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\sidebar bg.xnb</Output>
+      <Time>2012-04-09T00:48:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>new alchemist.png</Source>
+      <Name>new alchemist</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\new alchemist.xnb</Output>
+      <Time>2012-03-17T22:44:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>potion.png</Source>
+      <Name>potion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\potion.xnb</Output>
+      <Time>2012-04-13T00:21:50-04:00</Time>
+    </Item>
+    <Item>
+      <Source>potion v2.png</Source>
+      <Name>potion v2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\potion v2.xnb</Output>
+      <Time>2012-04-13T11:45:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>village walls.png</Source>
+      <Name>village walls</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\village walls.xnb</Output>
+      <Time>2012-04-14T01:05:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>village floor.png</Source>
+      <Name>village floor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\village floor.xnb</Output>
+      <Time>2012-04-15T12:08:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>scroll.png</Source>
+      <Name>scroll</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\scroll.xnb</Output>
+      <Time>2012-04-15T19:56:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gold small.png</Source>
+      <Name>gold small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\gold small.xnb</Output>
+      <Time>2012-04-18T00:17:50-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ring.png</Source>
+      <Name>ring</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\ring.xnb</Output>
+      <Time>2012-04-19T12:16:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>arrow tile.png</Source>
+      <Name>arrow tile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\arrow tile.xnb</Output>
+      <Time>2012-04-25T01:02:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pack.png</Source>
+      <Name>pack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\pack.xnb</Output>
+      <Time>2013-01-27T14:27:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>rabid hound.png</Source>
+      <Name>FeralHound</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\FeralHound.xnb</Output>
+      <Time>2012-12-01T13:50:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>trader.png</Source>
+      <Name>Trader</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Trader.xnb</Output>
+      <Time>2012-05-04T21:03:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>viking.png</Source>
+      <Name>viking</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\viking.xnb</Output>
+      <Time>2012-05-17T01:29:40-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Class Select Screen.png</Source>
+      <Name>Class Select Screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Class Select Screen.xnb</Output>
+      <Time>2013-03-02T16:39:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>pickaxe.png</Source>
+      <Name>pickaxe</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\pickaxe.xnb</Output>
+      <Time>2012-05-20T21:33:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>femalchemist.png</Source>
+      <Name>femalchemist</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\femalchemist.xnb</Output>
+      <Time>2012-05-28T20:56:38-04:00</Time>
+    </Item>
+    <Item>
+      <Source>rock.png</Source>
+      <Name>rock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\rock.xnb</Output>
+      <Time>2012-06-06T21:40:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>light radius.png</Source>
+      <Name>light radius</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\light radius.xnb</Output>
+      <Time>2012-06-06T18:09:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>stalagmite.png</Source>
+      <Name>stalagmite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\stalagmite.xnb</Output>
+      <Time>2012-06-07T23:43:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>puddle tile.png</Source>
+      <Name>puddle tile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\puddle tile.xnb</Output>
+      <Time>2012-06-08T17:06:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>stair down.png</Source>
+      <Name>stair down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\stair down.xnb</Output>
+      <Time>2012-06-11T22:01:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>dungeon arrow.png</Source>
+      <Name>dungeon arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\dungeon arrow.xnb</Output>
+      <Time>2012-06-10T21:39:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>tree snake.png</Source>
+      <Name>GrassSnake</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\GrassSnake.xnb</Output>
+      <Time>2013-02-02T19:17:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>alchemist frames.png</Source>
+      <Name>alchemist frames</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\alchemist frames.xnb</Output>
+      <Time>2013-02-27T13:56:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>femalchemist frames.png</Source>
+      <Name>femalchemist frames</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\femalchemist frames.xnb</Output>
+      <Time>2012-10-10T22:10:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>trader frames.png</Source>
+      <Name>trader frames</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\trader frames.xnb</Output>
+      <Time>2012-07-06T22:58:04-04:00</Time>
+    </Item>
+    <Item>
+      <Source>map button.png</Source>
+      <Name>map button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\map button.xnb</Output>
+      <Time>2012-07-11T19:25:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>viking ani.png</Source>
+      <Name>viking ani</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\viking ani.xnb</Output>
+      <Time>2012-08-02T22:58:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>title screen.png</Source>
+      <Name>title screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\title screen.xnb</Output>
+      <Time>2012-08-07T17:03:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>barsBG.png</Source>
+      <Name>barsBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\barsBG.xnb</Output>
+      <Time>2012-08-17T15:48:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>slash attack ani.png</Source>
+      <Name>slash attack ani</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\slash attack ani.xnb</Output>
+      <Time>2012-08-15T20:16:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>raven in the trap.png</Source>
+      <Name>raven in the trap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\raven in the trap.xnb</Output>
+      <Time>2012-08-17T19:30:38-04:00</Time>
+    </Item>
+    <Item>
+      <Source>red hind.png</Source>
+      <Name>RedHind</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\RedHind.xnb</Output>
+      <Time>2012-09-11T13:54:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>look icon.png</Source>
+      <Name>look icon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\look icon.xnb</Output>
+      <Time>2012-08-26T19:33:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>new tree tall.png</Source>
+      <Name>new tree tall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\new tree tall.xnb</Output>
+      <Time>2012-09-15T18:47:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>cursor.png</Source>
+      <Name>cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\cursor.xnb</Output>
+      <Time>2013-08-19T18:56:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gold med.png</Source>
+      <Name>gold med</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\gold med.xnb</Output>
+      <Time>2012-10-02T12:21:50-04:00</Time>
+    </Item>
+    <Item>
+      <Source>leister.png</Source>
+      <Name>leister</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\leister.xnb</Output>
+      <Time>2012-10-04T19:44:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>long bow.png</Source>
+      <Name>long bow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\long bow.xnb</Output>
+      <Time>2012-10-10T20:12:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>survivalist ani.png</Source>
+      <Name>survivalist ani</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\survivalist ani.xnb</Output>
+      <Time>2012-10-11T20:52:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>survivalist.png</Source>
+      <Name>survivalist</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\survivalist.xnb</Output>
+      <Time>2012-10-10T20:48:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>arrow.png</Source>
+      <Name>arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\arrow.xnb</Output>
+      <Time>2012-10-12T21:44:40-04:00</Time>
+    </Item>
+    <Item>
+      <Source>arrows small pile.png</Source>
+      <Name>arrows small pile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\arrows small pile.xnb</Output>
+      <Time>2012-10-12T21:48:40-04:00</Time>
+    </Item>
+    <Item>
+      <Source>hide cuirass.png</Source>
+      <Name>hide cuirass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\hide cuirass.xnb</Output>
+      <Time>2012-11-18T11:20:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>inventory bg alt.png</Source>
+      <Name>inventory bg alt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\inventory bg alt.xnb</Output>
+      <Time>2012-11-07T21:48:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>inventory_BG.png</Source>
+      <Name>inventory_BG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\inventory_BG.xnb</Output>
+      <Time>2012-11-07T20:42:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>undiscovered tile overlay.png</Source>
+      <Name>undiscovered tile overlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\undiscovered tile overlay.xnb</Output>
+      <Time>2012-11-11T12:56:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>right edge overlay.png</Source>
+      <Name>right edge overlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\right edge overlay.xnb</Output>
+      <Time>2012-11-12T20:40:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>right low corner overlay.png</Source>
+      <Name>right low corner overlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\right low corner overlay.xnb</Output>
+      <Time>2012-11-12T21:33:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bottom edge overlay.png</Source>
+      <Name>bottom edge overlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\bottom edge overlay.xnb</Output>
+      <Time>2012-11-12T20:50:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>left low corner overlay.png</Source>
+      <Name>left low corner overlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\left low corner overlay.xnb</Output>
+      <Time>2012-11-12T21:33:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>veinheri.png</Source>
+      <Name>Veinheri</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Veinheri.xnb</Output>
+      <Time>2012-11-28T16:36:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>battle axe.png</Source>
+      <Name>battle-axe</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\battle-axe.xnb</Output>
+      <Time>2012-11-27T19:13:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>turkey rat.png</Source>
+      <Name>TurkeyRat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\TurkeyRat.xnb</Output>
+      <Time>2012-12-02T21:14:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>villiform.png</Source>
+      <Name>Villiform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Villiform.xnb</Output>
+      <Time>2012-12-02T21:28:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>tombstone.png</Source>
+      <Name>tombstone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\tombstone.xnb</Output>
+      <Time>2012-12-17T21:22:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>forest overlay.png</Source>
+      <Name>forest overlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\forest overlay.xnb</Output>
+      <Time>2013-02-26T18:57:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>log_btn.png</Source>
+      <Name>log_btn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\log_btn.xnb</Output>
+      <Time>2013-01-27T16:36:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>forest mists.png</Source>
+      <Name>forest mists</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\forest mists.xnb</Output>
+      <Time>2013-02-11T20:52:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>dungeon overlay.png</Source>
+      <Name>dungeon overlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\dungeon overlay.xnb</Output>
+      <Time>2013-02-27T12:56:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>survivalist f.png</Source>
+      <Name>survivalist f</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\survivalist f.xnb</Output>
+      <Time>2013-03-03T11:22:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>eat icon.png</Source>
+      <Name>eat icon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\eat icon.xnb</Output>
+      <Time>2013-03-03T21:55:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>gourd.png</Source>
+      <Name>Gourd</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Gourd.xnb</Output>
+      <Time>2013-07-02T18:37:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>cursor click.png</Source>
+      <Name>cursor click</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\cursor click.xnb</Output>
+      <Time>2013-09-17T00:46:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>snowscape.png</Source>
+      <Name>snowscape</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\snowscape.xnb</Output>
+      <Time>2013-10-07T01:23:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>snowscape2.png</Source>
+      <Name>snowscape2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\snowscape2.xnb</Output>
+      <Time>2013-10-07T01:23:04-04:00</Time>
+    </Item>
+    <Item>
+      <Source>snowscape3.png</Source>
+      <Name>snowscape3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\snowscape3.xnb</Output>
+      <Time>2013-10-07T01:22:46-04:00</Time>
+    </Item>
+    <Item>
+      <Source>jotunheim overlay.png</Source>
+      <Name>jotunheim overlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\jotunheim overlay.xnb</Output>
+      <Time>2013-10-17T18:34:46-04:00</Time>
+    </Item>
+    <Item>
+      <Source>fs_border.png</Source>
+      <Name>fs_border</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\fs_border.xnb</Output>
+      <Time>2013-10-21T23:41:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>yggdrassil highlight.png</Source>
+      <Name>yggdrassil highlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\yggdrassil highlight.xnb</Output>
+      <Time>2013-12-14T16:20:18.0752265-05:00</Time>
+    </Item>
+    <Item>
+      <Source>yggdrassil v3.png</Source>
+      <Name>yggdrassil v3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\yggdrassil v3.xnb</Output>
+      <Time>2013-11-20T17:59:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>tools icon.png</Source>
+      <Name>tools icon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\tools icon.xnb</Output>
+      <Time>2014-01-13T20:18:58.1708984-05:00</Time>
+    </Item>
+    <Item>
+      <Source>attack icon.png</Source>
+      <Name>attack icon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\attack icon.xnb</Output>
+      <Time>2014-01-20T15:22:53.9824218-05:00</Time>
+    </Item>
+    <Item>
+      <Source>save button.png</Source>
+      <Name>save button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\save button.xnb</Output>
+      <Time>2014-01-26T19:09:18.477539-05:00</Time>
+    </Item>
+    <Item>
+      <Source>gem of soul trapping.png</Source>
+      <Name>gem of soul trapping</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\gem of soul trapping.xnb</Output>
+      <Time>2014-02-06T23:22:13.5703125-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Kootenay.spritefont</Source>
+      <Name>Kootenay</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Kootenay.xnb</Output>
+      <Time>2012-03-20T22:22:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Gabriola.spritefont</Source>
+      <Name>Gabriola</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Gabriola.xnb</Output>
+      <Time>2012-04-20T00:40:46-04:00</Time>
+    </Item>
+    <Item>
+      <Source>HeaderFont.spritefont</Source>
+      <Name>HeaderFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\HeaderFont.xnb</Output>
+      <Time>2014-03-23T13:22:48.5322265-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MoM Title.wav</Source>
+      <Name>MoM Title</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\MoM Title.xnb</Output>
+      <Time>2012-08-22T20:44:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>35213__abyssmal__slashkut.wav</Source>
+      <Name>slash</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\slash.xnb</Output>
+      <Time>2012-09-12T22:03:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>21915__halleck__neck-crack-pure.wav</Source>
+      <Name>bonebreak</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\bonebreak.xnb</Output>
+      <Time>2012-09-13T22:39:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>38874__swuing__footstep-grass.wav</Source>
+      <Name>footstep_grass</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\footstep_grass.xnb</Output>
+      <Time>2013-01-31T15:35:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>151235__owlstorm__grassy-footstep-4.wav</Source>
+      <Name>footstep_grass2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\footstep_grass2.xnb</Output>
+      <Time>2013-01-31T19:08:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>169256__robertvoice__paso-grama-edit.wav</Source>
+      <Name>footstep_grass3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\footstep_grass3.xnb</Output>
+      <Time>2013-02-02T18:55:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>166509__yoyodaman234__concrete-footstep-1.wav</Source>
+      <Name>stoneStep2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\stoneStep2.xnb</Output>
+      <Time>2013-02-08T19:11:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>32646__carrigsound__step-9.wav</Source>
+      <Name>stoneStep1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\stoneStep1.xnb</Output>
+      <Time>2013-02-08T20:36:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>63532__florian-reinke__click2.wav</Source>
+      <Name>63532__florian-reinke__click2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\63532__florian-reinke__click2.xnb</Output>
+      <Time>2013-09-18T23:03:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>141980_m2mobi_click_converted.wav</Source>
+      <Name>141980_m2mobi_click_converted</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\141980_m2mobi_click_converted.xnb</Output>
+      <Time>2013-09-18T22:04:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MoM Wilderness - ver2.wav</Source>
+      <Name>forest bgm</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\forest bgm.xnb</Output>
+      <Time>2013-02-20T21:04:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MoM Dungeon.wav</Source>
+      <Name>MoM Dungeon</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\MoM Dungeon.xnb</Output>
+      <Time>2013-12-24T01:12:53.915039-05:00</Time>
+    </Item>
+    <Item>
+      <Source>50773_smcameron_arrow-whoosh.mp3</Source>
+      <Name>throw</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\throw.xnb</Output>
+      <Time>2012-10-24T11:18:36-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\Content\</RootDirectory>
+      <LoggerRootDirectory>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T18:42:32-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T18:43:28-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T18:43:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T18:48:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T18:48:50-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\LinqBridge.dll</Key>
+        <Value>2012-11-26T22:20:48-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-11-21T21:37:14.6328125-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

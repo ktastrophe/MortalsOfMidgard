@@ -1,0 +1,23 @@
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\MyFirstXNAGame.exe
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\MyFirstXNAGame.pdb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\obj\x86\Debug\MyFirstXNAGame.exe
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\obj\x86\Debug\MyFirstXNAGame.pdb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\lozla_owl.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Kootenay.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Ragicn_alchemist.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Trap_water.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Monsters_trap.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\new mountain.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\new tree.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\grass.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\honey badger.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Gabriola.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\messageBG.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\grass w rocks.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\worn grass.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\skeleton.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\Sans titre.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\rationbag.xnb
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\bin\x86\Debug\Content\alchemist.xnb

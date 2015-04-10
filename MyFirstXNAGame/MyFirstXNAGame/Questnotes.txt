@@ -1,0 +1,21 @@
+﻿Press X for EXploits Screen?
+Show details for following quests.
+
+Plight of the Valkyries
+
+For reasons unknown, the Valkyries have been exiled from Valhalla to the mortal realms,
+and confined to strange dwellings that nullify their senses. After eons of such
+blindness, these reapers have all but forgotten their life's work: to
+hie fallen Norsemen to their rightful place in the afterlife. 
+
+Find a manner to remind a Valkyrie of her purpose, thereby freeing her.
+ (Have a human soul inhabit a gem of soul trapping)
+(Bring soul to the sealed room of the catacombs where a valkyrie is held captive)
+
+Gems of Soul Trapping, in the rough, are only able to contain the soul for so many
+turns before their power is exhausted, leaving them an inert dull gem.
+Souls will have to be transferred from one gem to another, unless the player
+(or friendly NPC) creates a setting for it with blacksmithing skill.
+Enter Ring of Soul Trapping!!!
+
+A set number of gems can be mined from a Soul Geode with the pickaxe.

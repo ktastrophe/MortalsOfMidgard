@@ -1,0 +1,4 @@
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame Copy - to fix debugger\MyFirstXNAGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Katie\Documents\Visual Studio 2008\Projects\MyFirstXNAGame\MyFirstXNAGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Visual C# 2008 Projects\Projects\MyFirstXNAGame\MyFirstXNAGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Visual C# 2008 Projects - Source\Projects\MyFirstXNAGame\MyFirstXNAGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache

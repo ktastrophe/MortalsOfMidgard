@@ -1,0 +1,7 @@
+C:\Users\t-yil_000\Documents\Visual Studio 2010\Projects\Camera\Camera\Camera\bin\x86\Debug\Content\background.xnb
+C:\Users\t-yil_000\Documents\Visual Studio 2010\Projects\Camera\Camera\Camera\bin\x86\Debug\Camera.exe
+C:\Users\t-yil_000\Documents\Visual Studio 2010\Projects\Camera\Camera\Camera\bin\x86\Debug\Camera.pdb
+C:\Users\t-yil_000\Documents\Visual Studio 2010\Projects\Camera\Camera\Camera\obj\x86\Debug\Camera.csprojResolveAssemblyReference.cache
+C:\Users\t-yil_000\Documents\Visual Studio 2010\Projects\Camera\Camera\Camera\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\t-yil_000\Documents\Visual Studio 2010\Projects\Camera\Camera\Camera\obj\x86\Debug\Camera.exe
+C:\Users\t-yil_000\Documents\Visual Studio 2010\Projects\Camera\Camera\Camera\obj\x86\Debug\Camera.pdb

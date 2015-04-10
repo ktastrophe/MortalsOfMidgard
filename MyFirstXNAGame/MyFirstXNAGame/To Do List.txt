@@ -1,0 +1,80 @@
+﻿Unstarted Tasks:
+-----------------------------
+1. Game Over Screen
+
+2. Have a random quote from the Poetic Eddas appear on the game over screen
+
+In-game
+-------
+1. Have the player start in a camp (graphic with a fire pit, maybe discarded food, etc.)
+Have the starting inventory NOT be automatically assigned, but be there to pick up, take it or leave it.
+Player may only take so many items before the remaining goods get magically spirited away.
+
+2. Implement a real-time day-to-night system? Could have different monsters during daytime vs nighttime
+
+3. Add a method to update the positions of the monsters, items, and quest chars within UpdateInput.
+
+4. Have an offerings system--lets you offer goods to the god of your choosing, affecting morality 
+but carrying different immediate rewards. Potion of annointing will ask you, "Annoint yourself in
+whose name?", gaining you favour with chosen god
+
+"Your act of piety has not gone unnoticed, and (God Name) is pleased."
+
+5. Add experience for such actions as eating, drinking, and reading something for the first time
+
+Supporting tasks
+--------
+1. Draw action buttons: Tools, Stairs, Atk Safety, etc.
+
+2. Draw Menu buttons: Save, Quit
+
+5. Draw a map screen to really represent the world (DONE)
+
+6. Draw chain mail, more sprites
+
+7. Compose a second theme for Village/Forest (NOT STARTED), a theme for underground (DONE)
+
+8. Implement sound effects for opening pack (NOT DONE), mouse-over and mouse-click on inv. items (DONE), button clicks (DONE).
+Try matching graphical effects (i.e. highlighting, scaling) 
+
+9. Have multiple music tracks play in a single area on random shuffle
+
+NEW ITEMS:
+=========
+slumgullion - soup you can make of random enemies' corpses once you learn to cook
+
+NEW CONDITIONS:
+===============
+♣ Migrating body parts - similar to a flounder's eye, have a condition that starts to mangle
+the structure of your body. Implications: can't wear a plate if your head is coming out of
+your stomach (would have to wear a vest), but you can't be decapitated either; if your eyes are 
+on your hands, wearing gloves makes you blind, etc.
+
+Started/Finished Tasks:
+--------------
+1. Use more variables for system text, and change some of the sillier text, e.g.,
+"Welcome back to Midgard \n"+
+                "What is thy name, mortal? Punch thy electronic printing press, \n"+
+                "by the gods, then press Enter." (DONE)
+                
+                
+3a. Change the discovered area to look something like this:
+   _____
+ _|     |_
+|         |
+|    p    |   p = player (!!!DONE!!!)
+|_       _|
+  |_____|
+    
+3b. Create some kind of overlay graphic to smooth or feather the edges of the undiscovered tiles.
+The graphic should be just over 80x80 so that it can be tiled without seams. (STARTED)
+
+3. Make far moves work with the minimap. (DONE! (with bugs?))
+
+6. Make it so you can't see through walls and into shops. (STARTED)
+
+7. Create I/O for a message log, and a button graphic for the lower bar.
+Have the log displayed on a separate screen. (***DONE!!!)
+
+Make a gravestone graphic for the player when they die. (DONE!)
+(Also, have a sound effect to be replaced someday by a game over theme.)
